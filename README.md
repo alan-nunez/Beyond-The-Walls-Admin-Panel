@@ -1,7 +1,5 @@
-# Beyond The Walls
+# Beyond The Walls #
 
-This project was built angular.js MVC pattern.
-And was deployed at 
-http://18.217.79.229/beyondthewalls
-
-This project is front end of admin panel for mobile application.
+# Brief information #
+This project has been built with angular.js + hapi.js and was hosted on AWS.
+This app is admin panel front end for mobile application, which used thrid party apis e.g. for payment and AWS services.
